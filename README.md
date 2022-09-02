@@ -3,6 +3,7 @@
 - ✨ The first programming language I learnt was Java
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m always looking for new challenges on Frontend Mentor
+- 📪 Reach me at apeksha.arora@gmail.com
 
 
 <!---
